@@ -30,7 +30,7 @@ network:
 #           kind: substrate/CallHandler
 dataSources:
   - kind: substrate/Runtime
-    startBlock: 1
+    startBlock: 10159784
     mapping:
       file: ./dist/index.js
       handlers:
